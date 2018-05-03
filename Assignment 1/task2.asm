@@ -1,12 +1,14 @@
 
             
-            ;-------------------------------------------------------------------
-            ;  Objective : To find average marks in each Subject of Students   ;
-            ;  Input     : Total stusents and Total subjects                   ;
-            ;              Marks for each students in each subjects            ;
-            ;  OutPut    : Put average mark in each subject                    ;
-            ;              Precision 0.001                                     ;
-            ;-------------------------------------------------------------------
+            ;-------------------------------------------------------------------;
+            ;   AUTHOR	:	Suryavanshi Virendrasingh	        ;
+   	;   ROLL NO	:	B16037		                    ;  
+            ;   Objective : To find average marks in each Subject of Students   ;
+            ;   Input     : Total students and Total subjects                   ;
+            ;              Marks for each students in each subjects             ;
+            ;   OutPut    : Put average mark in each subject                    ;
+            ;   Precision : 0.001                                               ;
+            ;-------------------------------------------------------------------;
 
 %include "io.mac"                               ; Include Input / Output function
 
