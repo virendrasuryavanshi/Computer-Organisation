@@ -1,12 +1,12 @@
 
- 	    ;-------------------------------------------------------------------
-            ;   AUTHOR	:	Suryavanshi Virendrasingh		       ;
-   	    ;   ROLL NO	:	B16037					       ;					       
-	    ;   Objective : To find average marks in each Subject of Students  ; 
-            ;   Input     : Two Matrices A and B		               ; 
-            ;   OutPut    : Addition Matrix C of A nad B                       ;
-            ;                                                                  ;
-            ;-------------------------------------------------------------------
+ 	    ;-----------------------------------------------------------------------;
+            ;   AUTHOR	:	Suryavanshi Virendrasingh		            ;
+   	    ;   ROLL NO	:	B16037					            ;					       
+	    ;   Objective : To read two matrix A and B and display result matrix C  ; 
+            ;   Input     : Two Matrices A and B		                    ; 
+            ;   OutPut    : Addition Matrix C of A nad B                            ;
+            ;                                                                       ;
+            ;------------------------------------------------------------------------
 
 
  %include "io.mac"
