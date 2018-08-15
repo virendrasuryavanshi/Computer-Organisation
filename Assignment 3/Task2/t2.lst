@@ -1,0 +1,13 @@
+     1                                  segment .text
+     2                                  	global testl
+     3                                  testl:
+     4 00000000 C8000000                	enter 0,0
+     5 00000004 9C                      	pushf
+     6 00000005 58                      	pop EAX
+     7 00000006 C9                      	leave
+     8 00000007 C3                      ret
+     9                                  
+    10                                  
+    11                                  
+    12                                  
+    13                                  
